@@ -31,7 +31,7 @@
   _Reusable AWS CDK constructs for when you want your cloud to be as elegant as a sandpiper._
 
 - [backstage](https://github.com/spotify/backstage)  
-  _Contributed to Spotify’s open platform for developer portals—rock on! _
+  _Contributed to Spotify’s open platform for developer portal_
 
 ---
 
