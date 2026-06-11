@@ -36,9 +36,8 @@
 ---
 
   ### 🚧 Side Projects
-  - Built a [**private-cloud**](https://medium.com/@muhamadto/building-a-hardened-private-cloud-on-raspberry-pi-compute-module-5-403552788cad) on a Raspberry Pi CM5 cluster with Compute Blades ([computeblade.com](https://computeblade.com/)), on a custom-built security-hardened immutable Ubuntu Server OS image — read-only root, atomic updates,
-  minimal attack surface.
-    _Because who doesn't want their own cloud in a box? _
+  - Built a [**private-cloud**](https://medium.com/@muhamadto/building-a-hardened-private-cloud-on-raspberry-pi-compute-module-5-403552788cad) on a Raspberry Pi CM5 cluster with Compute Blades ([computeblade.com](https://computeblade.com/)), on a custom-built security-hardened immutable Ubuntu Server OS image (read-only root, atomic updates,minimal attack surface).
+    _Because who doesn't want their own cloud in a box?_
   - Exploring wild new territories in self-hosted infrastructure.
 
 ---
