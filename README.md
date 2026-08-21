@@ -21,8 +21,12 @@
 ---
 
 ### 🌟 Notable Projects
-  - [ai-agent-workforce](https://github.com/muhamadto/ai-agent-workforce)
-    _Ansible-deployed AI agent teams for Claude, Gemini, and Qwen — shared skills, Conventional Commits enforcement, and zero-trust security mindset baked in._
+
+- [kickoff-spring-ai](https://github.com/muhamadto/kickoff-spring-ai)    
+  _Hands-on Spring AI tutorial, themed as a World Cup 2026 fan assistant: 16 modules from chat clients to RAG, guardrails, and evaluation._
+
+- [ai-agent-workforce](https://github.com/muhamadto/ai-agent-workforce)    
+  _Ansible-deployed AI agent teams for Claude, Gemini, and Qwen — shared skills, Conventional Commits enforcement, and zero-trust security mindset baked in._
     
 - [spring-native-aws-lambda](https://github.com/muhamadto/spring-native-aws-lambda)  
   _Turning Spring Boot and AWS Lambda into best friends._
